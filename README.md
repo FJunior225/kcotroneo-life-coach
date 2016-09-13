@@ -1,1 +1,2 @@
-# kcotroneo-life-coach
+# KCotroneo-Life-Coach
+
