@@ -190,3 +190,26 @@ footer p {
         clear: both;
     }
 }
+
+blockquote.style {
+  padding-left: 70px;
+  padding-top: 18px;
+  padding-bottom: 28px;
+  padding-right: 10px;
+  margin: 5px;
+  background-image: url(../img/openquote4.gif);
+  background-position: middle left;
+  background-repeat: no-repeat;
+}
+
+blockquote cite {
+    color: black;
+    font-size: 22px;
+    display: block;
+    margin-top: 5px;
+    margin-left: 35em;
+}
+
+blockquote cite:before {
+    content: "\2014 \2009";
+}
